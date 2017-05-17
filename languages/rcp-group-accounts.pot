@@ -1,0 +1,497 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Restrict Content Pro - Group Accounts\n"
+"POT-Creation-Date: 2016-08-24 09:04-0400\n"
+"PO-Revision-Date: 2016-08-24 09:04-0400\n"
+"Last-Translator: John Parris <public@johnparris.com>\n"
+"Language-Team: John Parris <public@johnparris.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: rcp-group-accounts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-settings.php:66
+msgid "Are you sure you want to delete this group?"
+msgstr ""
+
+#: includes/admin/class-settings.php:67
+msgid "Are you sure you want to remove this member from the group?"
+msgstr ""
+
+#: includes/admin/class-settings.php:75 includes/admin/groups/add-group.php:51
+#: includes/admin/groups/edit-group.php:56 includes/admin/groups/list.php:12
+#: includes/admin/groups/list.php:24
+msgid "Seats"
+msgstr ""
+
+#: includes/admin/class-settings.php:95
+msgid "Allow Group Account"
+msgstr ""
+
+#: includes/admin/class-settings.php:99
+msgid "Check to enable group accounts for this subscription level."
+msgstr ""
+
+#: includes/admin/class-settings.php:105
+msgid "Group Seats"
+msgstr ""
+
+#: includes/admin/class-settings.php:109
+msgid ""
+"The number of group seats available to this level including the group owner."
+msgstr ""
+
+#: includes/admin/class-settings.php:149 includes/admin/groups/list.php:3
+msgid "Group"
+msgstr ""
+
+#: includes/admin/class-settings.php:163
+msgid "Group Invite Email"
+msgstr ""
+
+#: includes/admin/class-settings.php:168
+msgid "Disabled"
+msgstr ""
+
+#: includes/admin/class-settings.php:173
+msgid ""
+"Check this to disable the email sent out when a member is invited to a group."
+msgstr ""
+
+#: includes/admin/class-settings.php:177
+msgid ""
+"Check this to disable the new user welcome email sent out when a new member "
+"accepts an invite link."
+msgstr ""
+
+#: includes/admin/class-settings.php:183
+msgid "Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:187
+msgid ""
+"The subject line for the email sent out when a member is invited to a group."
+msgstr ""
+
+#: includes/admin/class-settings.php:192
+msgid "Email Body"
+msgstr ""
+
+#: includes/admin/class-settings.php:196
+msgid ""
+"This is the email message that is sent out when a member is invited to a "
+"group."
+msgstr ""
+
+#: includes/admin/class-settings.php:208
+msgid ""
+"will be replaced with the name of the group to which person receiving the "
+"email belongs or is being invited"
+msgstr ""
+
+#: includes/admin/class-settings.php:209
+msgid ""
+"will be replaced with the description of the group to which person receiving "
+"the email belongs or is being invited"
+msgstr ""
+
+#: includes/admin/class-settings.php:210
+msgid ""
+"will be replaced with the invite link the user will click to join the group, "
+"only for the Group Invite Email"
+msgstr ""
+
+#: includes/admin/groups/add-group.php:3
+msgid "New Group"
+msgstr ""
+
+#: includes/admin/groups/add-group.php:12
+#: includes/admin/groups/edit-group.php:17 includes/admin/groups/list.php:7
+#: includes/admin/groups/list.php:19 includes/admin/groups/members.php:9
+#: includes/admin/groups/members.php:17 templates/group-members-list.php:39
+msgid "Name"
+msgstr ""
+
+#: includes/admin/groups/add-group.php:17
+#: includes/admin/groups/edit-group.php:22
+msgid "The name of this group"
+msgstr ""
+
+#: includes/admin/groups/add-group.php:25
+#: includes/admin/groups/edit-group.php:30 includes/admin/groups/list.php:10
+#: includes/admin/groups/list.php:22
+msgid "Description"
+msgstr ""
+
+#: includes/admin/groups/add-group.php:30
+#: includes/admin/groups/edit-group.php:35
+msgid "The description of this group"
+msgstr ""
+
+#: includes/admin/groups/add-group.php:38
+#: includes/admin/groups/edit-group.php:43
+msgid "Group Owner"
+msgstr ""
+
+#: includes/admin/groups/add-group.php:43
+msgid "Enter the email address of the user account to set as the group owner."
+msgstr ""
+
+#: includes/admin/groups/add-group.php:56
+#: includes/admin/groups/edit-group.php:61
+msgid "The number of seats for this group"
+msgstr ""
+
+#: includes/admin/groups/add-group.php:66 includes/admin/groups/list.php:3
+msgid "Add Group"
+msgstr ""
+
+#: includes/admin/groups/add-member.php:4
+msgid "New Group Member"
+msgstr ""
+
+#: includes/admin/groups/add-member.php:13
+msgid "User Email"
+msgstr ""
+
+#: includes/admin/groups/add-member.php:18
+msgid "Enter the email address of a user account to add to the group."
+msgstr ""
+
+#: includes/admin/groups/add-member.php:28 includes/admin/groups/members.php:4
+#: templates/group-member-add.php:45
+msgid "Add Member"
+msgstr ""
+
+#: includes/admin/groups/edit-group.php:8
+msgid "Edit Group"
+msgstr ""
+
+#: includes/admin/groups/edit-group.php:48
+msgid "Group owners cannot be changed"
+msgstr ""
+
+#: includes/admin/groups/edit-group.php:71 templates/group-edit.php:28
+msgid "Update Group"
+msgstr ""
+
+#: includes/admin/groups/list.php:8 includes/admin/groups/list.php:20
+#: includes/admin/groups/members.php:10 includes/admin/groups/members.php:18
+msgid "ID"
+msgstr ""
+
+#: includes/admin/groups/list.php:9 includes/admin/groups/list.php:21
+msgid "Owner"
+msgstr ""
+
+#: includes/admin/groups/list.php:11 includes/admin/groups/list.php:23
+#: includes/admin/groups/list.php:47
+msgid "Members"
+msgstr ""
+
+#: includes/admin/groups/list.php:13 includes/admin/groups/list.php:25
+msgid "Date Created"
+msgstr ""
+
+#: includes/admin/groups/list.php:14 includes/admin/groups/list.php:26
+#: includes/admin/groups/members.php:12 includes/admin/groups/members.php:20
+#: templates/group-members-list.php:41
+msgid "Actions"
+msgstr ""
+
+#: includes/admin/groups/list.php:46
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/groups/list.php:49
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/groups/list.php:56
+msgid "No groups found"
+msgstr ""
+
+#: includes/admin/groups/members.php:4
+#, php-format
+msgid "%s Group Members"
+msgstr ""
+
+#: includes/admin/groups/members.php:11 includes/admin/groups/members.php:19
+#: templates/group-members-list.php:40
+msgid "Role"
+msgstr ""
+
+#: includes/admin/groups/members.php:45 templates/group-members-list.php:60
+msgid "Remove from Group"
+msgstr ""
+
+#: includes/admin/groups/members.php:47 includes/admin/groups/members.php:51
+#: templates/group-members-list.php:62 templates/group-members-list.php:66
+msgid "Set as Member"
+msgstr ""
+
+#: includes/admin/groups/members.php:49 templates/group-members-list.php:64
+msgid "Set as Admin"
+msgstr ""
+
+#: includes/admin/groups/members.php:52 templates/group-members-list.php:67
+msgid "Resend Invite"
+msgstr ""
+
+#: includes/admin/groups/members.php:60
+msgid "No members in this group"
+msgstr ""
+
+#: includes/class-actions.php:516
+msgid "You have too many members in your group to change to this level."
+msgstr ""
+
+#: includes/class-actions.php:573
+msgid "Please enter a group name."
+msgstr ""
+
+#: includes/class-notices.php:33
+msgid "Group member added successfully"
+msgstr ""
+
+#: includes/class-notices.php:37
+msgid "Group member removed successfully"
+msgstr ""
+
+#: includes/class-notices.php:41
+msgid "Group member updated successfully"
+msgstr ""
+
+#: includes/class-notices.php:45
+msgid "Group members imported successfully"
+msgstr ""
+
+#: includes/class-notices.php:49
+msgid "Group members imported with errors"
+msgstr ""
+
+#: includes/class-notices.php:54
+msgid "Member's role successfully updated"
+msgstr ""
+
+#: includes/class-notices.php:58
+msgid "Member's password successfully updated"
+msgstr ""
+
+#: includes/class-notices.php:62
+msgid "Group added successfully"
+msgstr ""
+
+#: includes/class-notices.php:66
+msgid "Group updated successfully"
+msgstr ""
+
+#: includes/class-notices.php:70
+msgid "Group deleted successfully"
+msgstr ""
+
+#: includes/class-notices.php:74
+msgid "Invite sent successfully"
+msgstr ""
+
+#: includes/class-notices.php:78
+msgid "That email does not appear to exist in our system"
+msgstr ""
+
+#: includes/class-notices.php:83
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: includes/class-notices.php:88
+msgid "Please enter a group name"
+msgstr ""
+
+#: includes/class-notices.php:93
+msgid "You do not have permission to perform that action"
+msgstr ""
+
+#: includes/class-notices.php:98
+msgid "Oops, no group ID was specified. How did that happen? We do not know"
+msgstr ""
+
+#: includes/class-notices.php:103
+msgid "Oops, no member was specified. How did that happen? We do not know"
+msgstr ""
+
+#: includes/class-notices.php:108 includes/group-member-functions.php:64
+msgid ""
+"This user is already has a group. Users may only be part of one group at a "
+"time."
+msgstr ""
+
+#: includes/class-notices.php:113
+msgid "There are not enough seats left in this group to handle this request."
+msgstr ""
+
+#: includes/class-notices.php:118 includes/group-member-functions.php:59
+msgid "Members with an active subscription cannot be added to a group."
+msgstr ""
+
+#: includes/class-notices.php:123
+msgid "Please upload a CSV file"
+msgstr ""
+
+#: includes/class-notices.php:128
+msgid "Something went wrong, please try again."
+msgstr ""
+
+#: includes/class-shortcodes.php:109 includes/class-shortcodes.php:148
+#: templates/group-dashboard.php:18
+#, php-format
+msgid "You are currently using %s out of %s seats available on your account."
+msgstr ""
+
+#: includes/class-shortcodes.php:214
+msgid "Please sign in to manage your group."
+msgstr ""
+
+#: includes/class-shortcodes.php:221
+msgid "You must have an active membership to manage your group."
+msgstr ""
+
+#: includes/class-shortcodes.php:232
+msgid ""
+"You must have a membership that allows group accounts to manage a group."
+msgstr ""
+
+#: includes/class-shortcodes.php:238
+msgid "You must be a group administrator to manage this group."
+msgstr ""
+
+#: includes/group-member-functions.php:33
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/group-member-functions.php:37
+msgid "Please specify a group ID."
+msgstr ""
+
+#: rcp-group-accounts.php:190
+msgid "Invited"
+msgstr ""
+
+#: templates/group-dashboard.php:29
+msgid "Please add a name and description for your group to add members."
+msgstr ""
+
+#: templates/group-edit.php:10
+msgid "Group Settings"
+msgstr ""
+
+#: templates/group-edit.php:16 templates/group-edit.php:17
+#: templates/register-group.php:16
+msgid "Group Name"
+msgstr ""
+
+#: templates/group-edit.php:21 templates/register-group.php:21
+msgid "Group Description"
+msgstr ""
+
+#: templates/group-edit.php:22
+msgid "Group description"
+msgstr ""
+
+#: templates/group-member-add.php:9
+msgid "Add Group Members"
+msgstr ""
+
+#: templates/group-member-add.php:16
+msgid "Member First Name"
+msgstr ""
+
+#: templates/group-member-add.php:17
+msgid "First Name"
+msgstr ""
+
+#: templates/group-member-add.php:21
+msgid "Member Last Name"
+msgstr ""
+
+#: templates/group-member-add.php:22
+msgid "Last Name"
+msgstr ""
+
+#: templates/group-member-add.php:26
+msgid "Member Email"
+msgstr ""
+
+#: templates/group-member-add.php:27
+msgid "Email"
+msgstr ""
+
+#: templates/group-member-add.php:34 templates/group-member-import.php:25
+msgid ""
+"Disable the group invite email and automatically add this user to the group."
+msgstr ""
+
+#: templates/group-member-add.php:36 templates/group-member-import.php:27
+msgid ""
+"(If a new user is created, then the new user notification will be sent out.)"
+msgstr ""
+
+#: templates/group-member-import.php:9
+msgid "Import Group Members"
+msgstr ""
+
+#: templates/group-member-import.php:19
+msgid "Bulk import accounts from a CSV file."
+msgstr ""
+
+#: templates/group-member-import.php:19
+msgid "Click here to see a sample CSV"
+msgstr ""
+
+#: templates/group-member-import.php:36
+msgid "Import CSV"
+msgstr ""
+
+#: templates/group-members-list.php:33
+msgid "Group Members"
+msgstr ""
+
+#: templates/group-subscription.php:15
+msgid "Group Status"
+msgstr ""
+
+#: templates/group-subscription.php:16
+msgid "Group Subscription"
+msgstr ""
+
+#: templates/group-subscription.php:18
+msgid "Group Renewal Date"
+msgstr ""
+
+#: templates/group-subscription.php:20
+msgid "Group Expiration"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Restrict Content Pro - Group Accounts"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides the database and API for group accounts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Restrict Content Pro team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://restrictcontentpro.com/"
+msgstr ""

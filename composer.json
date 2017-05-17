@@ -1,0 +1,27 @@
+{
+   	"name": "cgcookie/cgc-group-accounts",
+   	"type": "wordpress-plugin",
+	"description": "Provides the database and API for group accounts on the CG Cookie education network",
+	"keywords": [ "rcp", "pippin","groups"],
+	"homepage": "http://cgcookie.com",
+	"authors": [
+	    {
+	      	"name": "Nick Haskins",
+	      	"email": "nick@cgcookie.com",
+	      	"homepage": "http://cgcookie.com"
+	    },
+	    {
+	      	"name": "Wes Burke",
+	      	"email": "wes@cgcookie.com",
+	      	"homepage": "http://cgcookie.com"
+	    },
+	   	{
+	      	"name": "Jonathan Williamson",
+	      	"email": "jonathan@cgcookie.com",
+	      	"homepage": "http://cgcookie.com"
+	    }
+	],
+   	"require": {
+     	"composer/installers": "~1.0.6"
+   	}
+}
